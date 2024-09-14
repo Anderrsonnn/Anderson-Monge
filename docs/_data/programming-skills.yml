@@ -4,8 +4,12 @@
 
 - name: Go
   percentage: 80
-  color:
+  color: dark
 
 - name: Python
   percentage: 70
   color: secondary
+
+  - name: Awesome Skill
+  percentage: 95
+  color: dark
